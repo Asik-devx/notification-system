@@ -1,0 +1,3 @@
+com\asik\notification_worker\NotificationWorkerApplication.class
+com\asik\notification_worker\consumer\NotificationConsumer.class
+com\asik\notification_worker\config\KafkaConsumerConfig.class

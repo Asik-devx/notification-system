@@ -1,0 +1,6 @@
+spring:
+  kafka:
+    bootstrap-servers: kafka:9092
+    consumer:
+      group-id: notification-worker-group
+      auto-offset-reset: earliest
